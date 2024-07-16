@@ -1,0 +1,31 @@
+---
+title: 'Cognitive control in media multitaskers: Two replication studies and a meta-Analysis'
+authors:
+- Wisnu Wiradhany
+- Mark R Nieuwenstein
+date: '2017-01-01'
+publishDate: '2024-07-16T05:14:40.050824Z'
+publication_types:
+- article-journal
+publication: '*Attention, Perception, & Psychophysics*'
+doi: 10.3758/s13414-017-1408-4
+abstract: Ophir, Nass, and Wagner (2009, Proceedings of the National Academy of Sciences
+  of the United States of America, 106(37), 15583–15587) found that people with high
+  scores on the media-use questionnaire—a questionnaire that measures the proportion
+  of media-usage time during which one uses more than one medium at the same time—show
+  impaired performance on various tests of distractor filtering. Subsequent studies,
+  however, did not all show this association between media multitasking and distractibility,
+  thus casting doubt on the reliability of the initial findings. Here, we report the
+  results of two replication studies and a meta-analysis that included the results
+  from all published studies into the rela-tionship between distractor filtering and
+  media multitasking. Our replication studies included a total of 14 tests that had
+  an average replication power of 0.81. Of these 14 tests, only five yielded a statistically
+  significant effect in the direction of in-creased distractibility for people with
+  higher scores on the media-use questionnaire, and only two of these effects held
+  in a more conservative Bayesian analysis. Supplementing these outcomes, our meta-analysis
+  on a total of 39 effect sizes yielded a weak but significant association between
+  media mul-titasking and distractibility that turned nonsignificant after correction
+  for small-study effects. Taken together, these find-ings lead us to question the
+  existence of an association between media multitasking and distractibility in laboratory
+  tasks of information processing.
+---
