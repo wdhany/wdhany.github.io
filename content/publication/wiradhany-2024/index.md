@@ -29,19 +29,7 @@ abstract: Open-source apps and software allow psychological science researchers 
   memudahkan audit, replikasi, dan kolaborasi, yang bermanfaat bagi ilmu pengetahuan
   secara umum.
 tags:
-- aplikasi dan perangkat lunak
-- bagi mereka yang belum
-- care principles
-- collaboration
-- data dengan cara yang
-- dipertanggungjawabkan
-- lebih ekonomis dan dapat
-- memungkinkan ilmuwan psikologi
 - open science
 - open-source
 - open-source applications
-- sumber terbuka
-- surat pendek ini menawarkan
-- untuk mengumpulkan dan menganalisis
-- yakin
 ---
